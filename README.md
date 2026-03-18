@@ -31,22 +31,21 @@ provider, with a focus on precision due to the high cost of false positives.
 - Evaluated model accuracy and precision with business justification
 - Discussed limitations and recommended alternative models
 
-**Key concepts:** Scikit-learn, logistic regression, precision/recall, 
-feature scaling
+**Key concepts:** Scikit-learn, logistic regression, precision/precison
 
 ---
 
 ## Question 3 — Flood Risk Forecasting (Neural Network)
 
-Designed and implemented a feedforward neural network to classify flood 
+Designed and implemented a neural network to classify flood 
 risk in rural areas using climate-related features.
 
 - Preprocessed data for neural network input
-- Built and trained a Keras feedforward model (TensorFlow backend)
+- Built and trained a Keras model
 - Evaluated using precision and discussed its importance in disaster contexts
 - Proposed strategies to improve model performance
 
-**Key concepts:** Keras, TensorFlow, feedforward neural networks, 
+**Key concepts:** Keras, TensorFlow, neural networks, 
 binary classification
 
 ---
